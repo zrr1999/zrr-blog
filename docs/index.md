@@ -59,5 +59,3 @@ export default {
 :::
 
 <span v-for="i in [3,4,5]">{{ i }} </span>
-
-
