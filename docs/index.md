@@ -3,7 +3,7 @@ blog: true
 home: true
 icon: home
 title: 六个骨头的博客
-heroImage: /logo.svg
+# heroImage: /logo.svg
 heroText: 六个骨头的博客
 tagline: You can put your slogan here
 actionText: Get Started
