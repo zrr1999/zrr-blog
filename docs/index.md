@@ -31,8 +31,8 @@ project:
 
 footer: customize your footer text
 ---
-[Home](/)
-[bar - three](../bar/three)
+[home](/home)
+[bonetex](/bonetex)
 :tada: :100:
 
 ::: tip

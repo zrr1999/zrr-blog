@@ -70,6 +70,6 @@ copyrightText: false
 footer: MIT Licensed | Copyright © 2019-present Mr. Hope
 ---
 
-This is an example of a normal homepage. You can place your main content here.
+# {{ $frontmatter.title }}
 
-For related descriptions of configuration items, please see [Home Page Layout Configuration](https://vuepress-theme-hope.github.io/guide/layout/home/).
+Guide content
