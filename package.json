@@ -10,7 +10,6 @@
   },
   "name": "bone-blog",
   "version": "0.1.0",
-  "main": "index.js",
   "author": "tczrr1999 <2742392377@qq.com>",
   "license": "MIT",
   "private": true

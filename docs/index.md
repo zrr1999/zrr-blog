@@ -3,39 +3,13 @@ blog: true
 home: true
 icon: home
 title: 六个骨头的博客
-# heroImage: /logo.svg
-heroText: 六个骨头的博客
-tagline: You can put your slogan here
-actionText: Get Started
-actionLink: /guide/
+tagline: 一个好汉三个帮
 
-footer: customize your footer text
+footer: Copyright © 2021 Rongrui Zhan | Powered by VitePress
 ---
-[home](/home)
-[bonetex](/bonetex)
-:tada: :100:
 
-::: tip
-This is a tip
-:::
+# 我的项目
 
-::: warning
-This is a warning
-:::
+## [BoneTeX](/bonetex)
+  [BoneTeX Code](https://www.wolai.com/7DqSZZT39VJu4hWBnGLTDk) 是一个高效的LaTeX文档编写工具，可以大幅度提高编写文档的效率和质量，其分为三部分，BoneTeX Core、BoneTeX Server和BoneTeX Editor。BoneTeX Core是一个自动生成大量繁琐重复的高质量LaTeX代码的Python库；BoneTeX Server是一个基于Flask的后端接口脚本，使BoneTeX Core的核心功能与本地环境无关；BoneTeX Editor是一个基于Electron的BoneTeX语言专用编辑器。
 
-::: danger
-This is a dangerous warning
-:::
-
-
-```js{2-3}
-export default {
-  name: 'MyComponent',
-  // ...
-}{{ 1 + 1 }}
-```
-::: v-pre
-{{ This will be displayed as-is }}
-:::
-
-<span v-for="i in [3,4,5]">{{ i }} </span>
