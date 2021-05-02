@@ -62,7 +62,7 @@
       </template>
     </Page>
   </div>
-
+  <div class="footer"></div>
   <Debug />
 </template>
 
